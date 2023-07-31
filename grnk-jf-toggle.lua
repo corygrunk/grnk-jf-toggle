@@ -1,7 +1,6 @@
 -- GRNK jf toggle
 --
---- utility to toggle
---- just friend's mode
+--- k3 toggles jf mode
 
 local current_mode = 0
 local counter = 0
