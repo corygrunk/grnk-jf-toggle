@@ -1,7 +1,7 @@
 # grnk-jf-toggle
 Simple utility to view/toggle Just Friends' mode.
 
-![alt text](https://github.com/corygrunk/grnk-jf-toggle/blob/main/norns.jpg?raw=true)
+![alt text](https://github.com/corygrunk/grnk-jf-toggle/blob/main/jf-toggle-screen.png?raw=true)
 
 ## Requirements
 * Monome Norns
